@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 Our lab is equipped with state-of-the-art facilities for the fabrication and mechanical characterization of soft and composite materials. Below are the primary services and equipment we offer.
-
 Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-weight: bold; text-decoration: underline;">contact us</a> for more information regarding equipment availability or collaboration.
 
 ---
@@ -15,7 +14,9 @@ Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-w
 
 <div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191;">
   <h4 style="margin-top: 0;">OBJET260 CONNEX 3 (Stratasys)</h4>
-  <img src="/images/3D_printer.jpg" alt="OBJET260 CONNEX 3" style="width: 100%; max-width: 400px; height: auto; border-radius: 4px; margin-bottom: 15px; display: block;">
+  <img src="/images/3D_printer.jpg" 
+     alt="OBJET260 CONNEX 3" 
+     style="width: 250px; border-radius: 4px; margin: 20px auto; display: block; border: 1px solid #eee;">
   <p>A high-end multi-material 3D printer capable of jetting both ABS-like and rubber-like photopolymers simultaneously.</p>
   <ul>
     <li><strong>Multi-Material:</strong> Can print structures comprising up to three different materials in a single build.</li>
