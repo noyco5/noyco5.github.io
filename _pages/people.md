@@ -19,12 +19,6 @@ author_profile: true
     </div>
 
     <div class="person-card" style="width: 180px; text-align: center;">
-      <img src="/images/Renata_Olive.jpg" alt="Tal Hanuhov" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
-      <div style="font-weight: bold; text-decoration: underline;">Renata Olive</div>
-      <div style="font-size: 0.85em; color: #666;">PhD Student</div>
-    </div>
-
-    <div class="person-card" style="width: 180px; text-align: center;">
       <img src="/images/Renata_Olive.jpg" alt="Renata Olive" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
       <div style="font-weight: bold; text-decoration: underline;">Renata Olive</div>
       <div style="font-size: 0.85em; color: #666;">PhD Student</div>
@@ -39,6 +33,18 @@ author_profile: true
       <div class="person-card" style="width: 180px; text-align: center;">
       <img src="/images/Eli_Yovel.jpg" alt="Eli Yovel" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
       <div style="font-weight: bold; text-decoration: underline;">Eli Yovel</div>
+      <div style="font-size: 0.85em; color: #666;">M.Sc. Student</div>
+    </div>
+
+    <div class="person-card" style="width: 180px; text-align: center;">
+      <img src="/images/Karine_Sacagiu.jpg" alt="Karine Sacagiu" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
+      <div style="font-weight: bold; text-decoration: underline;">Karine Sacagiu</div>
+      <div style="font-size: 0.85em; color: #666;">M.Sc. Student</div>
+    </div>
+
+    <div class="person-card" style="width: 180px; text-align: center;">
+      <img src="/images/Yonatan_Markman.jpg" alt="Yonatan Markman" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
+      <div style="font-weight: bold; text-decoration: underline;">Yonatan Markman</div>
       <div style="font-size: 0.85em; color: #666;">M.Sc. Student</div>
     </div>
   </div>
