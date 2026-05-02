@@ -29,20 +29,44 @@ Check out our video on tensegrity structures below:
 
 ---
 
-### Mechanics of Soft Materials
-**Fun with balloons!** Check out our two-balloon experiment to see the non-linear mechanics of rubber in action:
+### Mechanics of Soft Materials: Fun with balloons!
 
-<div class="video-container" style="text-align: center; margin: 20px 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/xS8K367Nq_0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; border-radius: 8px;"></iframe>
+Check out our two-balloon experiment to see the non-linear mechanics of rubber in action:
+
+<div style="text-align: center; margin: 30px 0;">
+  <div style="max-width: 560px; margin: 0 auto;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <iframe 
+        src="https://www.youtube.com/embed/nWINTYMQ4Hk" 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+        title="Mechanics of soft materials - fun with balloons!"
+        allowfullscreen="" 
+        loading="lazy"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin">
+      </iframe>
+    </div>
+  </div>
 </div>
 
 ---
 
-### The Toothpick Challenge
-**Can you figure out the mechanics behind this stability challenge?**
+### The Toothpick Challenge: Can you figure out the mechanics behind this stability challenge?
 
-<div class="video-container" style="text-align: center; margin: 20px 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fW4mUv-V8G4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; border-radius: 8px;"></iframe>
+<div style="text-align: center; margin: 30px 0;">
+  <div style="max-width: 560px; margin: 0 auto;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <iframe 
+        src="https://www.youtube.com/embed/DEoj_Q08XDE" 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+        title="The toothpick challenge"
+        allowfullscreen="" 
+        loading="lazy"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin">
+      </iframe>
+    </div>
+  </div>
 </div>
 
 ---
