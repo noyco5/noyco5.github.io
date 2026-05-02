@@ -13,17 +13,18 @@ Mechanics is a fascinating field! Can you figure out how these mechanisms work?
 
 Check out our video on tensegrity structures below:
 
-<div style="text-align: center; margin: 20px 0;">
-  <iframe 
-    width="100%" 
-    style="max-width: 766px; aspect-ratio: 16 / 9; border-radius: 8px;" 
-    src="https://www.youtube.com/embed/44eVpBw9JFU" 
-    title="Tensegrity structures - Mechanics is fun!" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen>
-  </iframe>
+<div style="text-align: center; margin: 30px 0;">
+  <div style="max-width: 560px; margin: 0 auto;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <iframe 
+        src="https://www.youtube.com/embed/44eVpBw9JFU" 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" 
+        allowfullscreen="" 
+        loading="lazy"
+        referrerpolicy="strict-origin-when-cross-origin">
+      </iframe>
+    </div>
+  </div>
 </div>
 
 ---
