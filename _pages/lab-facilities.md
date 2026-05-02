@@ -20,7 +20,7 @@ Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-w
 
   <div style="flex: 2; min-width: 300px;">
     <h4 style="margin-top: 0;">OBJET260 CONNEX 3 (Stratasys)</h4>
-    <p>A high-end multi-material 3D printer capable of jetting both ABS-like and rubber-like photopolymers simultaneously.</p>
+    <p>A high-end multi-material 3D printer capable of printing stiff ABS-like and compliant rubber-like materials.</p>
     <ul style="margin-bottom: 0;">
       <li><strong>Multi-Material:</strong> Can print structures comprising up to three different materials in a single build.</li>
       <li><strong>Versatility:</strong> Wide variety of digital materials ranging from soft/flexible to stiff/rigid.</li>
@@ -42,11 +42,10 @@ Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-w
 
   <div style="flex: 2; min-width: 300px;">
     <h4 style="margin-top: 0;">Instron 5943 with Torsion Add-on</h4>
-    <p>The newest state-of-the-art machine for characterization of the mechanical response of materials.</p>
+    <p>Characterization of the mechanical response of materials.</p>
     <ul style="margin-bottom: 0;">
       <li><strong>Multi-Axial:</strong> Characterization of the response of materials under tension, compression, shear, and torsion.</li>
-      <li><strong>Capacity:</strong> Force capacity of 1 kN—ideal for measuring the response of soft materials.</li>
-      <li><strong>Precision:</strong> High-resolution data acquisition for subtle mechanical transitions.</li>
+      <li><strong>Force capacity:</strong> up to 1 kN.</li>
     </ul>
   </div>
 
@@ -63,7 +62,7 @@ Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-w
     <p>A non-contact strain measurement system that provides high-precision data without affecting the mechanical behavior of soft samples.</p>
     <ul style="margin-bottom: 0;">
       <li><strong>Precision:</strong> Accurate measurement of local longitudinal and transverse strain.</li>
-      <li><strong>Characterization:</strong> Essential for determining the Young's modulus and the Poisson ratio of complex materials.</li>
+      <li><strong>Characterization:</strong> Determine the Young's modulus, the Poisson ratio, and the overall response.</li>
     </ul>
   </div>
 
