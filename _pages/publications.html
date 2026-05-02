@@ -1,36 +1,43 @@
 ---
-layout: archive
 title: "Publications"
+layout: single
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<input type="text" id="pubSearch" onkeyup="searchPublications()" placeholder="Search publications (title, year, journal)..." style="width: 100%; padding: 10px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px;">
 
-{% include base_path %}
+<div id="pubList">
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+# 2026
+* **N. Cohen**, "Phase coexistence in thermo-responsive PNIPAM hydrogels triggered by mechanical forces," *Macromolecules*, 59: 2580–2589, 2026. [DOI](https://doi.org/10.1021/acs.macromol.5c02450)
+* K. Sacagiu, S. Monchetti, R. Brighenti, and **N. Cohen**, "Bi-layer dielectric elastomer beams: theory and applications," *Mechanics of Materials*, 216: 105626, 2026. [DOI](https://doi.org/10.1016/j.mechmat.2025.105626)
 
+# 2025
+* **N. Cohen** and F. Zhang, "Modeling of protein networks reveals factors affecting stiffness, yield stress, and strain stiffening in silk fibers," *Acta Biomaterialia*, 208: 402-410, 2025. [DOI](https://doi.org/10.1016/j.actbio.2024.11.020)
+* S. Yang, M. Levin, G.A. Padmanabha, et al., "Physics augmented machine learning discovery of composition-dependent constitutive laws for 3D-printed materials," *International Journal of Engineering Science*, 217: 104381, 2025. [DOI](https://doi.org/10.1016/j.ijengsci.2024.104381)
+* M. Levin, T. Hanuhov and **N. Cohen**, "Autonomous lifting: swelling-activated 3D-printed actuators," *Sensors and Actuators A: Physical*, 395: 116971, 2025. [DOI](https://doi.org/10.1016/j.sna.2025.116971)
 
+# 2024
+* R. Olive and **N. Cohen**, "Deformation and failure mechanisms in spider silk fibers," *Journal of the Mechanics and Physics of Solids*, 182: 105480, 2024. [DOI](https://doi.org/10.1016/j.jmps.2023.105480)
 
+</div>
+
+<script>
+function searchPublications() {
+  var input, filter, ul, li, a, i, txtValue;
+  input = document.getElementById('pubSearch');
+  filter = input.value.toUpperCase();
+  div = document.getElementById("pubList");
+  li = div.getElementsByTagName('li');
+
+  for (i = 0; i < li.length; i++) {
+    txtValue = li[i].textContent || li[i].innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+</script>
