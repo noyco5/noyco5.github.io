@@ -10,6 +10,7 @@ Mechanics is a fascinating field! Can you figure out how these mechanisms work?
 ---
 
 ### Tensegrity Structures: How can we get strings to carry compressive loads? 
+
 Check out our video on tensegrity structures below:
 
 <div style="text-align: center; margin: 20px 0;">
