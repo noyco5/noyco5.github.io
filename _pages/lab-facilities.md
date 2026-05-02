@@ -12,6 +12,24 @@ Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-w
 
 ### 3D Printing
 
+<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191; display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+  
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="/images/3d_printer.jpg" alt="OBJET260 CONNEX 3" style="width: 100%; border-radius: 4px; border: 1px solid #eee;">
+  </div>
+
+  <div style="flex: 2; min-width: 300px;">
+    <h4 style="margin-top: 0;">OBJET260 CONNEX 3 (Stratasys)</h4>
+    <p>A high-end multi-material 3D printer capable of jetting both ABS-like and rubber-like photopolymers simultaneously.</p>
+    <ul style="margin-bottom: 0;">
+      <li><strong>Multi-Material:</strong> Can print structures comprising up to three different materials in a single build.</li>
+      <li><strong>Versatility:</strong> Wide variety of digital materials ranging from soft/flexible to stiff/rigid.</li>
+      <li><strong>Precision:</strong> High accuracy with layer thicknesses down to ~16 microns.</li>
+    </ul>
+  </div>
+
+</div>
+
 <div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191;">
   <h4 style="margin-top: 0;">OBJET260 CONNEX 3 (Stratasys)</h4>
   <img src="/images/3D_printer.jpg" 
