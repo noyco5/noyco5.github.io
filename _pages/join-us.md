@@ -7,7 +7,7 @@ author_profile: true
 
 ### We are looking for M.Sc. and Ph.D. candidates to join our group!
 
-Our group employs theoretical and experimental tools to understand the relations between the micro-structure and the macroscopic response of soft materials. Materials of interest include electro-active polymers, lattice structures, biopolymers, and gels.
+Our group employs theoretical and experimental tools to understand the relations between the micro-structure and the macroscopic response of soft materials. Materials of interest include spider silk fibers, gels, lattice structures, and dielectric elastomers.
 
 The candidate will be responsible for advancing a research program focused on the above mentioned general topic. Candidates with a background in mechanical engineering, materials science engineering, and electrical engineering are preferred.
 
