@@ -26,14 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Noy Cohen"
   pronouns         : # example: "she/her"  
-  bio              : "|
-  Associate Professor
-  Department of Materials Science and Engineering
-  Technion – Israel Institute of Technology. 
-  Our research focuses on the mechanics and physics of soft materials, including spider silk, hydrogels, and polymer networks."
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Associate Professor<br> Department of Materials Science and Engineering<br>Technion – Israel Institute of Technology.<br>Our research focuses on the mechanics and physics of soft materials, including spider silk, hydrogels, and polymer networks."
   email            : "noyco@technion.ac.il" 
 
   # Academic websites
