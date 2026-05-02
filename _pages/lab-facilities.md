@@ -30,53 +30,65 @@ Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-w
 
 </div>
 
-<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191;">
-  <h4 style="margin-top: 0;">OBJET260 CONNEX 3 (Stratasys)</h4>
-  <img src="/images/3D_printer.jpg" 
-     alt="OBJET260 CONNEX 3" 
-     style="width: 250px; border-radius: 4px; margin: 20px auto; display: block; border: 1px solid #eee;">
-  <p>A high-end multi-material 3D printer capable of jetting both ABS-like and rubber-like photopolymers simultaneously.</p>
-  <ul>
-    <li><strong>Multi-Material:</strong> Can print structures comprising up to three different materials in a single build.</li>
-    <li><strong>Versatility:</strong> Wide variety of digital materials ranging from soft/flexible to stiff/rigid.</li>
-    <li><strong>Precision:</strong> High accuracy with layer thicknesses down to ~16 microns.</li>
-  </ul>
-</div>
-
 ---
 
 ### Mechanical Characterization
 
-<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 15px; border-left: 5px solid #005191;">
-  <h4 style="margin-top: 0;">Instron 5943 with Torsion Add-on</h4>
-  <p>State-of-the-art universal testing machine optimized for the mechanical response of soft materials.</p>
-  <ul>
-    <li><strong>Multi-Axial:</strong> Characterization under tension, compression, shear, and torsion.</li>
-    <li><strong>Sensitivity:</strong> Force capacity of 1 kN, ideal for polymers and biological tissues.</li>
-  </ul>
+<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191; display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+  
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="/images/Instron.jpg" alt="Instron 5943" style="width: 100%; border-radius: 4px; border: 1px solid #eee;">
+  </div>
+
+  <div style="flex: 2; min-width: 300px;">
+    <h4 style="margin-top: 0;">Instron 5943 with Torsion Add-on</h4>
+    <p>The newest state-of-the-art machine for characterization of the mechanical response of materials.</p>
+    <ul style="margin-bottom: 0;">
+      <li><strong>Multi-Axial:</strong> Characterization of the response of materials under tension, compression, shear, and torsion.</li>
+      <li><strong>Capacity:</strong> Force capacity of 1 kN—ideal for measuring the response of soft materials.</li>
+      <li><strong>Precision:</strong> High-resolution data acquisition for subtle mechanical transitions.</li>
+    </ul>
+  </div>
+
 </div>
 
-<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191;">
-  <h4 style="margin-top: 0;">Video Extensometer</h4>
-  <p>Non-contact strain measurement system integrated with the Instron tester.</p>
-  <ul>
-    <li><strong>Local Analysis:</strong> Accurate measurement of longitudinal and transverse strain.</li>
-    <li><strong>Material Constants:</strong> Precise characterization of Young's modulus and Poisson's ratio.</li>
-  </ul>
+<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191; display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+  
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="/images/extensometer.jpg" alt="Video Extensometer" style="width: 100%; border-radius: 4px; border: 1px solid #eee;">
+  </div>
+
+  <div style="flex: 2; min-width: 300px;">
+    <h4 style="margin-top: 0;">Video Extensometer for Instron</h4>
+    <p>A non-contact strain measurement system that provides high-precision data without affecting the mechanical behavior of soft samples.</p>
+    <ul style="margin-bottom: 0;">
+      <li><strong>Precision:</strong> Accurate measurement of local longitudinal and transverse strain.</li>
+      <li><strong>Characterization:</strong> Essential for determining the Young's modulus and the Poisson ratio of complex materials.</li>
+    </ul>
+  </div>
+
 </div>
 
 ---
 
 ### Environmental Control
 
-<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191;">
-  <h4 style="margin-top: 0;">Environmental Chamber</h4>
-  <p>Dedicated chamber for testing materials under controlled atmospheric conditions.</p>
-  <ul>
-    <li><strong>Temperature Range:</strong> -40°C to 150°C.</li>
-    <li><strong>Relative Humidity:</strong> 20% to 98%.</li>
-    <li><strong>Chamber Volume:</strong> 22.5 L.</li>
-  </ul>
+<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191; display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+  
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <img src="/images/environmental_chamber.jpg" alt="Environmental Chamber" style="width: 100%; border-radius: 4px; border: 1px solid #eee;">
+  </div>
+
+  <div style="flex: 2; min-width: 300px;">
+    <h4 style="margin-top: 0;">Environmental Chamber</h4>
+    <p>Allows for the characterization of material properties under a wide range of controlled environmental conditions.</p>
+    <ul style="margin-bottom: 0;">
+      <li><strong>Temperature range:</strong> -40°C to 150°C.</li>
+      <li><strong>Relative humidity range:</strong> 20% to 98%.</li>
+      <li><strong>Chamber volume:</strong> 22.5 L.</li>
+    </ul>
+  </div>
+
 </div>
 
 ---
