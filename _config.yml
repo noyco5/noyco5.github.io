@@ -32,7 +32,6 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.co.il/citations?user=ZvkKppoAAAAJ&hl=en"
-  <li><a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2224-640X"
 
 

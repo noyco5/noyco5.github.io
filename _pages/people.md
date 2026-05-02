@@ -9,27 +9,18 @@ author_profile: true
 
 <div id="peopleGrid">
 
-  <h2 class="archive__subtitle">Principal Investigator</h2>
-  <div class="people-row" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
-    <div class="person-card" style="width: 200px; text-align: center;">
-      <img src="/images/noy_cohen.jpg" alt="Noy Cohen" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 10px;">
-      <div style="font-weight: bold;">Noy Cohen</div>
-      <div style="font-size: 0.9em; color: #666;">Associate Professor</div>
-    </div>
-  </div>
-
-  <h2 class="archive__subtitle">Students</h2>
+  <h2 class="archive__subtitle">Post docs and graduate students</h2>
   <div class="people-row" style="display: flex; flex-wrap: wrap; gap: 30px;">
     
     <div class="person-card" style="width: 180px; text-align: center;">
-      <img src="/images/mariana_levin.jpg" alt="Mariana Levin" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
-      <div style="font-weight: bold; text-decoration: underline;">Mariana Levin</div>
+      <img src="Koby_Amsalem.jpg" alt="Koby Amsalem" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
+      <div style="font-weight: bold; text-decoration: underline;">Koby Amsalem</div>
       <div style="font-size: 0.85em; color: #666;">PhD Student</div>
     </div>
 
     <div class="person-card" style="width: 180px; text-align: center;">
-      <img src="/images/tal_hanuhov.jpg" alt="Tal Hanuhov" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
-      <div style="font-weight: bold; text-decoration: underline;">Tal Hanuhov</div>
+      <img src="Renata_Olive.jpg" alt="Tal Hanuhov" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
+      <div style="font-weight: bold; text-decoration: underline;">Renata Olive</div>
       <div style="font-size: 0.85em; color: #666;">PhD Student</div>
     </div>
 
