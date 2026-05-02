@@ -5,8 +5,6 @@ permalink: /lab-facilities/
 author_profile: true
 ---
 
-### Lab Facilities
-
 Our lab is equipped with state-of-the-art facilities for the fabrication and mechanical characterization of soft and composite materials. Below are the primary services and equipment we offer.
 
 Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-weight: bold; text-decoration: underline;">contact us</a> for more information regarding equipment availability or collaboration.
