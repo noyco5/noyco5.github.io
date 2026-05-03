@@ -15,10 +15,9 @@ Welcome to the Multiscale Mechanics Group at the Technion. Our research lies at 
 
 ## Main Research Topics
 
-### **Spider Silk Mechanics**
+### **Spider Silk Mechanics**[Learn more about Spider Silk Mechanics](/research/spider-silk/){: .btn .btn--info}
 
 Spider silk is an extraordinary protein material that exhibits non-trivial behaviors, such as supercontraction (shortening by up to 50–60%) and twist in response to water uptake. In addition, spider silk is remarkably strong and tough, featuring a tensile response that depends on spinning conditions and can be tuned through a post-processing (hydration and dehydration under tension).
-
 Our group develops physics-based models to explain how the transition from a highly oriented glassy phase to a disoriented rubbery phase drives these counter-intuitive behaviors. By bridging the gap between molecular architecture and macroscopic mechanics, we aim to uncover the fundamental principles that will motivate the development of next-generation biomimetic materials.
 
 ### **Mechanics of Gels & Hydrogels**
