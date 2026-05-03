@@ -31,17 +31,13 @@ As opposed to the classic swelling-based actuators, the proposed design includes
 ---
 
 ## Thermally activated structures 
-Beyond hydration, thermal stimuli provide a high-speed, reversible method for controlling soft actuators.
+
+Morphing structures can change their shape in response to thermal excitation and are commonly used to enhance the performance of actuators, soft robotics, and biomedical devices. One of the main challenges is the inverse design problem, in which a deformed target shape is prescribed and the initial material properties, distribution, and geometry are to be determined.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px; order: 2;">
     <p> 
-      Our group focuses on the <strong>thermally induced activation</strong> of PNIPAM-based composites. Key research areas include:
-      <ul>
-        <li><strong>Constitutive Modeling:</strong> Developing energy-based frameworks that couple temperature-dependent phase transitions with finite-deformation mechanics.</li>
-        <li><strong>Programmed Morphing:</strong> Designing lattice architectures that translate isotropic thermal expansion (or contraction) into complex 3D shapes.</li>
-        <li><strong>Dynamic Response:</strong> Investigating the stability and speed of thermally triggered actuators under varying mechanical loads and heat transfer rates.</li>
-      </ul>  
+      To tackle this challenge, our group developed a model for the thermo-mechanical response of multi-layered struts that experience moderate to large deflections. The model was validated through thermally activated 3D-printed bi-layer beams. The simplicity and robustness of our model reveals fundamental principle guidelines for inverse design of thermally activated shape morphing structures and enables its extension to other stimuli.
     </p>
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
