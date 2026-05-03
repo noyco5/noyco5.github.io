@@ -30,7 +30,7 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
   </div>
   <div style="flex: 1; min-width: 300px;">
     <img src="/images/spider_silk.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Fig 1: Mechanism of water-induced supercontraction.</em></p>
+    <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Mechanism of water-induced supercontraction</em></p>
   </div>
 </div>
 
@@ -39,11 +39,14 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
 ---
 
 ## 2. Deformation mechanisms and plasticity
-One of the most exciting aspects of spider silk is its high stiffness, strength, and toughness, which stem from a unique mircostructure. Our group developed a microscopically motivated model that reveals the underlying mechanisms behind the mechanical response of silk fibers.
+One of the most exciting aspects of spider silk is its high stiffness, strength, and toughness, which stem from a unique mircostructure. Recent works also show that silk fibers exhibit plasticity and hysteresis when subjected to cyclic loading. 
+Our group developed a microscopically motivated model that reveals the underlying mechanisms behind the mechanical response of silk fibers.
+
+The governing deformation mechanisms are as follows:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px; order: 2;">
-    <p> The governing deformation mechanisms are as follows:
+    <p> 
      <ul>
       <li><strong>Initial Stiffness:</strong> Governed by intramolecular hydrogen bonds.</li>
       <li><strong>Yield Threshold:</strong> Determined by the density and the dissociation energy of hydrogen bonds.</li>
@@ -54,11 +57,10 @@ One of the most exciting aspects of spider silk is its high stiffness, strength,
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
     <img src="/images/spider_silk_mechanics.png" alt="The microstructural evolution of a spider silk fiber under uniaxial extension" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Fig 2: Stress-strain response under different processing conditions.</em></p>
+    <p style="font-size: 0.8em; text-align: center; color: #666;"><em>The microstructural evolution of a spider silk fiber under uniaxial extension</em></p>
   </div>
 </div>
 
-<p>Recent works also show that silk fibers exhibit plasticity and hysteresis when subjected to cyclic loading. </p>
 <p>In our recent works we employ statistical mechanics methodology to better understand the key microstructural quantities that govern the mechanical response. The findings from our work are three-fold: (1) explaining the mechanisms that govern deformation, hysteresis, and recovery and linking them to the microstructural evolution; (2) quantifying the recovery process of the fiber, which restores and enhances mechanical properties; and (3) establishing a predictive foundation for engineering synthetic fibers with customized properties.  </p>
 
 ---
