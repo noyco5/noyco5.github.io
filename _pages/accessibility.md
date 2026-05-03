@@ -20,3 +20,21 @@ To ensure a seamless experience, this site includes:
 
 ---
 
+### Physical Accessibility on Campus
+For information regarding building accessibility and access routes at the Technion campus, please visit the [Technion Accessibility Portal](https://hangasha.net.technion.ac.il/){:target="_blank"}.
+
+---
+
+### Contact Information
+If you encounter any accessibility barriers on this website, please contact the site administrator directly:
+
+**Asst. Prof. Noy Cohen** Email: [noyco@technion.ac.il](mailto:noyco@technion.ac.il)
+
+You may also contact the Technion's Accessibility Coordinator:  
+**Dikla Nachman** | Phone: 073-3781956 | [adminlogistic@technion.ac.il](mailto:adminlogistic@technion.ac.il)
+
+---
+
+### Assistance and Support
+While we strive for full accessibility, some older materials (such as legacy PDF manuscripts) may not be fully optimized. We are committed to providing accessible versions upon request.  
+For general Technion technical support: **04-829-5600**
