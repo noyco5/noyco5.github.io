@@ -30,7 +30,7 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
     <p>Our models explain these behaviors through the derivation of an energy-based model that relies on principals from polymer physics. The model considers the dissotion of intermolecular bonds and the consequent entropic relaxation of the chains.</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/images/spider_silk_mechanics.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/spider_silk.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Fig 1: Mechanism of water-induced supercontraction.</em></p>
   </div>
 </div>
@@ -38,11 +38,12 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
 ---
 
 ## 2. Deformation mechanisms and plasticity
-One of the most exciting aspects of spider silk is its mechanical "programmability."
+One of the most exciting aspects of spider silk is its high stiffness, strength, and toughness, which stem from a unique mircostructure.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px; order: 2;">
-    <p>By controlling the hydration/dehydration cycle while the fiber is under varying levels of tension (post-processing), we can "set" the material's mechanical profile. This allow us to precisely tune:</p>
+    <p>Our group developed a microscopically motivated model that reveals the underlying mechanisms behind the mechanical response of silk fibers. The governing deformation mechanisms are as follows: initial stretching is enabled and governed by the distortion of intermolecular hydrogen bonds that restrict the mobility of polypeptide chains. Once a sufficient force is applied, these bonds dissociate and the external load is transferred to the chains. Next, intramolecular &beta;-sheets along the chains and/or the crystalline domains dissociate to provide additional chain length, thereby resulting in a macroscopic softening. Further deformation is enabled by the entropic elasticity of the chains, which stiffen with stretch. Recent works also show that silk fibers exhibit plasticity and hysteresis when subjected to cyclic loading. </p>
+    <p>In our recent works we employ statistical mechanics methodology to better understand the key microstructural quantities that govern the mechanical response. The findings from our work are three-fold: (1) explaining the mechanisms that govern deformation, hysteresis, and recovery and linking them to the microstructural evolution; (2) quantifying the recovery process of the fiber, which restores and enhances mechanical properties; and (3) establishing a predictive foundation for engineering synthetic fibers with customized properties.  </p>
     <ul>
       <li><strong>Initial Stiffness:</strong> Controlled by molecular orientation.</li>
       <li><strong>Yield Threshold:</strong> Determined by the stability of hydrogen bonds.</li>
@@ -50,7 +51,7 @@ One of the most exciting aspects of spider silk is its mechanical "programmabili
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
-    <img src="/images/spider_silk_2.jpg" alt="The microstructural evolution of a spider silk fiber under uniaxial extension" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/pider_silk_mechanics.png" alt="The microstructural evolution of a spider silk fiber under uniaxial extension" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Fig 2: Stress-strain response under different processing conditions.</em></p>
   </div>
 </div>
