@@ -68,5 +68,4 @@ One of the most exciting aspects of spider silk is its high stiffness, strength,
 * [Humidity-driven supercontraction and twist in spider silk](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.098101){:target="_blank"} (2022)
 * [On the origin of supercontraction in spider silk](https://pubs.acs.org/doi/full/10.1021/acs.biomac.0c01747){:target="_blank"} (2021)
 
-[View all publications](/publications/){: .btn .btn--info}
 *Detailed list of papers or a link back to the [Publications](/publications/) page.*
