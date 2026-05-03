@@ -8,6 +8,16 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  -title: "Research"
+    url: /research/
+    children:
+      - title: "Spider Silk Mechanics"
+        url: /research/spider-silk/
+      - title: "Mechanics of Gels"
+        url: /research/gels/
+      - title: "3D-Printed Composite Structures & Actuators"
+        url: /research/composites/
+
   - title: "People"
     url: /people/
     
