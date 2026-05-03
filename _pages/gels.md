@@ -29,16 +29,12 @@ Poly(N-isopropylacrylamide) (PNIPAM) is a thermo-responsive polymer that is char
 
 ## The mechanics of PEGDA hydrogel networks
 
-discuss pegda
+Thanks to many promising properties, including biocompatibility and the ability to experience large deformations, poly(ethylene glycol) diacrylate (PEGDA) hydrogels are excellent candidate materials for a wide range of applications. Interestingly, the polymerization of PEGDA leads to a network microstructure that is fundamentally different from that of the “classic” polymeric gels. Specifically, PEGDA hydrogels comprise PEG chains that are interconnected by multifunctional densely grafted rod-like polyacrylates (PAs), which serve as cross-linkers.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px; order: 2;">
     <p> 
-      <ul>
-        <li><strong>Non-linear Elasticity:</strong> Investigating how cross-linking density affects the strain-stiffening behavior of the network.</li>
-        <li><strong>Bio-hybrid Composites:</strong> Using PEGDA as a matrix for fiber-reinforced composites where the soft gel facilitates large deformations while embedded fibers provide structural reinforcement.</li>
-        <li><strong>Additive Manufacturing:</strong> Precisely controlling the local architecture of networks to create architected hydrogels with programmed morphing responses.</li>
-      </ul>  
+     In our recent work, we derive a microstructurally motivated model that captures the essential features which enable deformation in PEGDA hydrogels: (1) entropic elasticity of PEG chains, (2) deformation of PA rods, and (3) PA–PA interactions. The findings from this work pave the way to the efficient design of PEGDA hydrogels with tunable properties and behaviors, which will enable the optimization of their performance in various applications.
     </p>
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
@@ -46,8 +42,6 @@ discuss pegda
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Mechanical response of PEGDA scaffolds</em></p>
   </div>
 </div>
-
-<p>By combining these synthetic networks with theoretical frameworks from statistical mechanics, we establish a predictive foundation for engineering the next generation of adaptive soft materials.</p>
 
 ---
 
