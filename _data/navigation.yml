@@ -10,15 +10,6 @@
 main:
   - title: "Research"
     url: /research/
-    children:
-      - title: "Overview"
-        url: /research/
-      - title: "Spider Silk Mechanics"
-        url: /research/spider-silk/
-      - title: "Mechanics of Gels"
-        url: /research/gels/
-      - title: "3D-Printed Composite Structures & Actuators"
-        url: /research/composites/
 
   - title: "People"
     url: /people/
