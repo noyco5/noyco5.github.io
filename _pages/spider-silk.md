@@ -38,19 +38,18 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
 ---
 
 ## 2. Deformation mechanisms and plasticity
-One of the most exciting aspects of spider silk is its high stiffness, strength, and toughness, which stem from a unique mircostructure.
+One of the most exciting aspects of spider silk is its high stiffness, strength, and toughness, which stem from a unique mircostructure. Our group developed a microscopically motivated model that reveals the underlying mechanisms behind the mechanical response of silk fibers.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px; order: 2;">
-    <p>Our group developed a microscopically motivated model that reveals the underlying mechanisms behind the mechanical response of silk fibers. The governing deformation mechanisms are as follows:
+    <p> The governing deformation mechanisms are as follows:
      <ul>
       <li><strong>Initial Stiffness:</strong> Governed by intramolecular hydrogen bonds.</li>
       <li><strong>Yield Threshold:</strong> Determined by the density and the dissociation energy of hydrogen bonds.</li>
       <li><strong>Softening:</strong> Breaking of intramolecular &beta;-sheets along the chains and/or the crystalline domains provide additional chain length.</li>
       <li><strong>Stiffening:</strong> Dominated by the entropic elasticity of the chains.</li>
-    </ul> 
-    Recent works also show that silk fibers exhibit plasticity and hysteresis when subjected to cyclic loading. </p>
-    <p>In our recent works we employ statistical mechanics methodology to better understand the key microstructural quantities that govern the mechanical response. The findings from our work are three-fold: (1) explaining the mechanisms that govern deformation, hysteresis, and recovery and linking them to the microstructural evolution; (2) quantifying the recovery process of the fiber, which restores and enhances mechanical properties; and (3) establishing a predictive foundation for engineering synthetic fibers with customized properties.  </p>
+    </ul>  
+    <\p>
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
     <img src="/images/spider_silk_mechanics.png" alt="The microstructural evolution of a spider silk fiber under uniaxial extension" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -58,6 +57,8 @@ One of the most exciting aspects of spider silk is its high stiffness, strength,
   </div>
 </div>
 
+<p>Recent works also show that silk fibers exhibit plasticity and hysteresis when subjected to cyclic loading. </p>
+<p>In our recent works we employ statistical mechanics methodology to better understand the key microstructural quantities that govern the mechanical response. The findings from our work are three-fold: (1) explaining the mechanisms that govern deformation, hysteresis, and recovery and linking them to the microstructural evolution; (2) quantifying the recovery process of the fiber, which restores and enhances mechanical properties; and (3) establishing a predictive foundation for engineering synthetic fibers with customized properties.  </p>
 ---
 
 ### Relevant Publications
