@@ -51,4 +51,12 @@ Morphing structures can change their shape in response to thermal excitation and
 ---
 
 ### Relevant Publications
+
+* [Autonomous lifting: Swelling-activated 3D-printed actuators](https://www.sciencedirect.com/science/article/pii/S0924424725007770){:target="_blank"} (2025)
+* [Harnessing springs to tune thermally induced snap-through instabilities in bi-layer beams](https://www.sciencedirect.com/science/article/abs/pii/S0997753825001937){:target="_blank"} (2025)
+* [Thermally activated tunable auxeticity in periodic lattice structures](https://www.sciencedirect.com/science/article/pii/S0020740325001717?via%3Dihub){:target="_blank"} (2025)
+* [Design principles for 3D-printed thermally activated shape-morphing structures](https://www.sciencedirect.com/science/article/abs/pii/S0020740323006185){:target="_blank"} (2024)
+* [Swelling under Constraints: Exploiting 3D-Printing to Optimize the Performance of Gel-Based Devices](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admt.202202136){:target="_blank"} (2023)
+* [Thermally induced deformations in multi-layered polymeric struts](https://www.sciencedirect.com/science/article/abs/pii/S002074032100669X){:target="_blank"} (2022)
+
 *Detailed list of papers or a link back to the [Publications](/publications/) page.*
