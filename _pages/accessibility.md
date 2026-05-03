@@ -18,7 +18,5 @@ To ensure a seamless experience, this site includes:
 * **Responsive Design:** Optimization for various browsers (Chrome, Firefox, Safari) and mobile devices.
 * **No Rapid Animations:** Avoidance of flashing elements or fast animations that may cause distress.
 
-Our accessibility tests are conducted using the latest version of the **NVDA** screen reader.
-
 ---
 
