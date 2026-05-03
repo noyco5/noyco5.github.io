@@ -15,13 +15,14 @@ Welcome to the Multiscale Mechanics Group at the Technion. Our research lies at 
 
 ## Main Research Topics
 
-### **Spider Silk Mechanics**[Learn more about Spider Silk Mechanics](/research/spider-silk/){: .btn .btn--info}
+### [Spider Silk Mechanics](/research/spider-silk/)
 
 Spider silk is an extraordinary protein material that exhibits non-trivial behaviors, such as supercontraction (shortening by up to 50–60%) and twist in response to water uptake. In addition, spider silk is remarkably strong and tough, featuring a tensile response that depends on spinning conditions and can be tuned through a post-processing (hydration and dehydration under tension).
 Our group develops physics-based models to explain how the transition from a highly oriented glassy phase to a disoriented rubbery phase drives these counter-intuitive behaviors. By bridging the gap between molecular architecture and macroscopic mechanics, we aim to uncover the fundamental principles that will motivate the development of next-generation biomimetic materials.
 
-### **Mechanics of Gels & Hydrogels**
-We study stimuli-responsive polymers like PNIPAM that undergo phase transitions in response to temperature or mechanical forces. Our group develops microscopically motivated, energy-based models to elucidate the mechanisms behind these transitions—from the single chain level to the macroscopic network response—providing tools for drug delivery and tissue engineering.
+### [Mechanics of Gels & Hydrogels](/research/gels/)
+
+Gels and hydrogels are versatile polymer networks that can undergo large deformations in response to external stimuli. Our group develops microscopically motivated, energy-based models that relate the microstructure (at the chain level) to the macroscopic network response. Gels of interest include PNIPAM and PEG-DA and the fundamental understanding from our models allows us to guide the design of soft actuators and bio-hybrid structures with highly predictable, programmable responses.
 
 ### **3D-Printed Composite Structures & Actuators**
 By exploiting 3D printing and spatial geometric confinement, we design autonomous actuators capable of performing mechanical work. Our work includes the inverse design of thermally activated shape-morphing structures and isotropic bi-layer tubes that twist upon inflation without an applied torque.
