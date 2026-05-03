@@ -19,8 +19,6 @@ Spider silk is an extraordinary protein material that bridges the gap between bi
 <p>The mechanical versatility of spider silk is rooted in its hierarchical, semi-crystalline morphology. It consists of stiff &beta;-sheets embedded within a disordered amorphous matrix comprising polypeptide chains that interact with each other through intermolecular hydrogen bonds. The bonds play a crucial role in the mechanical and humidity-induced response of spider silk fibers.</p>
 
 <div style="clear: both;"></div>
-
-<p>The mechanical versatility of spider silk is rooted in its hierarchical, semi-crystalline morphology...</p>
 ---
 
 ## 1. Water-Driven Response: Supercontraction & Twist
@@ -32,7 +30,7 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
     <p>Our models explain these behaviors through the derivation of an energy-based model that relies on principals from polymer physics. The model considers the dissotion of intermolecular bonds and the consequent entropic relaxation of the chains.</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/images/spider_silk.png" alt="Water-driven response of spider silk" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/spider_silk_mechanics.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Fig 1: Mechanism of water-induced supercontraction.</em></p>
   </div>
 </div>
@@ -52,12 +50,22 @@ One of the most exciting aspects of spider silk is its mechanical "programmabili
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
-    <img src="/images/spider_silk_2.jpg" alt="Spider silk post-processing data" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/spider_silk_2.jpg" alt="The microstructural evolution of a spider silk fiber under uniaxial extension" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Fig 2: Stress-strain response under different processing conditions.</em></p>
   </div>
 </div>
 
 ---
 
-### Related Publications
+### Relevant Publications
+
+* [Plasticity, hysteresis, and recovery mechanisms in spider silk fibers](https://www.sciencedirect.com/science/article/pii/S0022509626001596){:target="_blank"} (2026)
+* [Modeling of protein networks reveals factors affecting stiffness, yield stress, and strain stiffening in silk fibers](https://www.sciencedirect.com/science/article/pii/S1742706125007032){:target="_blank"} (2025)
+* [Employing spinning conditions to control the mechanical response of spider silk fibers](https://www.sciencedirect.com/science/article/pii/S0020768325003786){:target="_blank"} (2025)
+* [Deformation and failure mechanisms in spider silk fibers](https://www.sciencedirect.com/science/article/abs/pii/S0022509623002843){:target="_blank"} (2024)
+* [The underlying mechanisms behind the hydration-induced and mechanical response of spider silk](https://www.sciencedirect.com/science/article/abs/pii/S0022509622003179){:target="_blank"} (2023)
+* [Humidity-driven supercontraction and twist in spider silk](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.098101){:target="_blank"} (2022)
+* [On the origin of supercontraction in spider silk](https://pubs.acs.org/doi/full/10.1021/acs.biomac.0c01747){:target="_blank"} (2021)
+
+[View all publications](/publications/){: .btn .btn--info}
 *Detailed list of papers or a link back to the [Publications](/publications/) page.*
