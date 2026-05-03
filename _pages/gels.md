@@ -9,7 +9,7 @@ My research in soft matter focuses on the constitutive modeling and experimental
 
 ## Thermoresponsive Hydrogels: The Physics of PNIPAM
 
-<img src="{{ site.baseurl }}/images/pnipam.png" alt="PNIPAM phase transition under mechanical load" style="width:40%; float:right; margin-left:20px; border:1px solid #ddd; padding:5px;">
+<img src="/images/pnipam.png" alt="PNIPAM phase transition under mechanical load" style="width:40%; float:right; margin-left:20px; border:1px solid #ddd; padding:5px;">
 
 A significant focus of our group is **Poly(N-isopropylacrylamide)** (PNIPAM). This "smart" polymer is characterized by its Lower Critical Solution Temperature (LCST). When heated above approximately 32°C, PNIPAM undergoes a reversible phase transition from a hydrophilic, swollen state to a hydrophobic, collapsed state.
 
@@ -21,7 +21,7 @@ Our research explores how **mechanical forces** can shift this equilibrium. We h
 
 ## The mechanics of PEGDA
 
-<img src="{{ site.baseurl }}/images/pegda.png" alt="Mechanical response of PEGDA network" style="width:40%; float:right; margin-left:20px; border:1px solid #ddd; padding:5px;">
+<img src="/images/pegda.png" alt="Mechanical response of PEGDA network" style="width:40%; float:right; margin-left:20px; border:1px solid #ddd; padding:5px;">
 
 To create robust, bio-inspired structures, we utilize **Poly(ethylene glycol) diacrylate** (PEGDA). Unlike PNIPAM, PEGDA provides a stable, covalent scaffold. We employ these networks to:
 
