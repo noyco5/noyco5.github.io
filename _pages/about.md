@@ -17,14 +17,14 @@ Welcome to the Multiscale Mechanics Group at the Technion. Our research lies at 
 
 ### [Spider Silk Mechanics](/research/spider-silk/)
 
-Spider silk is an extraordinary protein material that exhibits non-trivial behaviors, such as supercontraction (shortening by up to 50–60%) and twist in response to water uptake. In addition, spider silk is remarkably strong and tough, featuring a tensile response that depends on spinning conditions and can be tuned through a post-processing (hydration and dehydration under tension).
-Our group develops physics-based models to explain how the transition from a highly oriented glassy phase to a disoriented rubbery phase drives these counter-intuitive behaviors. By bridging the gap between molecular architecture and macroscopic mechanics, we aim to uncover the fundamental principles that will motivate the development of next-generation biomimetic materials.
+Spider silk fibers are protein materials with exceptional mechanical performance, including high stiffness, high tensile strength, and remarkable toughness. In addition, exposure of these silk fibers to high humidity results in supercontraction (a shortening of up to 60% in length) and twist. Our group develops physics-based models to uncover the fundamental principles behind these behaviors, motivating the design of next-generation biomimetic materials.
 
 ### [Mechanics of Gels & Hydrogels](/research/gels/)
 
 Gels and hydrogels are versatile polymer networks that can undergo large deformations in response to external stimuli. Our group develops microscopically motivated, energy-based models that relate the microstructure (at the chain level) to the macroscopic network response. Gels of interest include PNIPAM and PEG-DA and the fundamental understanding from our models allows us to guide the design of soft actuators and bio-hybrid structures with highly predictable, programmable responses.
 
-### **3D-Printed Composite Structures & Actuators**
+### [3D-Printed Composite Structures & Actuators](/research/composites/)
+
 By exploiting 3D printing and spatial geometric confinement, we design autonomous actuators capable of performing mechanical work. Our work includes the inverse design of thermally activated shape-morphing structures and isotropic bi-layer tubes that twist upon inflation without an applied torque.
 
 ---
