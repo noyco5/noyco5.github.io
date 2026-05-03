@@ -12,13 +12,11 @@ Spider silk is an extraordinary protein material that bridges the gap between bi
 <div style="float: right; width: 40%; margin: 0 0 20px 20px;">
   <img src="/images/spider_silk_structure.png" alt="Spider silk hierarchical structure" style="width: 100%; border-radius: 4px; border: 1px solid #eee;">
   <p style="font-size: 0.85em; color: #666; margin-top: 10px; line-height: 1.2;">
-    <em>The hierarchical structure of spider silk: stiff crystalline &beta;-sheets act as cross-links within a disordered amorphous matrix.</em>
+    <em>The hierarchical structure of spider silk</em>
   </p>
 </div>
 
-<p>Spider silk is an extraordinary protein material that bridges the gap between biological efficiency and high-performance engineering. Our research focuses on the fundamental mechanics that govern the overall response of this material under environmental stimuli and mechanical loading.</p>
-
-<p>The mechanical versatility of spider silk is rooted in its hierarchical, semi-crystalline morphology. It consists of stiff <strong>nanocrystalline &beta;-sheets</strong>—highly oriented protein blocks that provide structural integrity—embedded within a <strong>disordered amorphous matrix</strong>. In line with our recent work, we emphasize that this amorphous network is the primary driver of stimuli-responsive behavior. When water molecules penetrate the matrix, they disrupt inter-chain hydrogen bonds, triggering a transition from a highly oriented glassy phase to a disoriented rubbery phase. This molecular reorganization is the fundamental mechanism behind macroscopic phenomena such as supercontraction and twist, and it provides the basis for the "mechanical memory" we exploit during post-processing.</p>
+<p>The mechanical versatility of spider silk is rooted in its hierarchical, semi-crystalline morphology. It consists of stiff &beta;-sheets embedded within a disordered amorphous matrix comprising polypeptide chains that interact with each other through intermolecular hydrogen bonds. The bonds play a crucial role in the mechanical and humidity-induced response of spider silk fibers.</p>
 
 <div style="clear: both;"></div>
 
