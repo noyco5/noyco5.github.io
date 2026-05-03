@@ -1,38 +1,24 @@
 ---
-title: "הצהרת נגישות"
+title: "Accessibility Statement"
 layout: single
 permalink: /accessibility/
 author_profile: true
 ---
 
-<div dir="rtl" style="text-align: right;">
+Noy Cohen is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards.
 
-פרופסור משנה נוי כהן מחויב לספק חוויית משתמש נגישה לכלל המבקרים באתר המעבדה, בהתאם להנחיות הנגישות של הטכניון ודרישות החוק.
+### Conformance Status
+The website (**noyco5.github.io**) is designed to comply with the **Web Content Accessibility Guidelines (WCAG) 2.0 Level AA** standards, as required by Israeli Standard IS 5568.
 
-### נגישות אתר האינטרנט (noyco5.github.io)
-האתר נבנה תוך הקפדה על עמידה בתקן AA על-פי הוראות ת”י 5568 לאתרי אינטרנט נגישים. בין היתר, האתר מאפשר:
+### Measures to Support Accessibility
+To ensure a seamless experience, this site includes:
+* **Semantic HTML Structure:** Proper use of headings, lists, and tables to support screen reader navigation.
+* **Keyboard Navigation:** Full support for navigating the site without a mouse using the Tab and Enter keys.
+* **Text Alternatives:** Inclusion of ALT tags for all research-related images and figures.
+* **Responsive Design:** Optimization for various browsers (Chrome, Firefox, Safari) and mobile devices.
+* **No Rapid Animations:** Avoidance of flashing elements or fast animations that may cause distress.
 
-* **מבנה סמנטי ברור:** שימוש בכותרות, רשימות וטבלאות בצורה תקנית המקלה על קוראי מסך.
-* **ניווט במקלדת:** תמיכה מלאה בניווט ללא שימוש בעכבר באמצעות מקשי Tab, חיצים ו-Enter.
-* **תיאור תמונות:** הוספת תגיות ALT לתיאור תוכן התמונות המחקריות באתר.
-* **קישורים משמעותיים:** שימוש בכותרות ברורות לקישורים המפרטות את יעד הלחיצה.
-* **התאמה לדפדפנים ומכשירים ניידים:** האתר מותאם לדפדפנים נפוצים (Chrome, Firefox, Safari) ומוצג בצורה אופטימלית במכשירים ניידים.
-* **הימנעות מאנימציות:** האתר אינו כולל מרכיבים מהבהבים או אנימציות מהירות העלולות להפריע למשתמשים.
+Our accessibility tests are conducted using the latest version of the **NVDA** screen reader.
 
-הבדיקות לאתר בוצעו בתוכנת קורא מסך מסוג NVDA בגרסתה העדכנית ביותר.
+---
 
-### נגישות פיזית בקמפוס
-למידע אודות הנגשת מבנים ודרכי גישה בקמפוס הטכניון, ניתן לעיין ב[פורטל הנגישות של הטכניון](https://hangasha.net.technion.ac.il/).
-
-### אנשי קשר
-במידה ונתקלתם בבעיה הקשורה לנגישות באתר זה, ניתן לפנות ישירות למנהל האתר:
-**פרופ"מ נוי כהן** | [noyco@technion.ac.il](mailto:noyco@technion.ac.il)
-
-למידע נוסף ניתן לפנות לרכזת הנגישות הטכניונית:
-**דקלה נחמן** | 073-3781956 | [adminlogistic@technion.ac.il](mailto:adminlogistic@technion.ac.il)
-
-### סיוע ותמיכה
-למרות המאמץ המושקע בהנגשת האתר, ייתכן שפריטים מסוימים (כגון קבצי PDF ישנים או תמונות היסטוריות) לא יהיו נגישים באופן מלא. אנו מחויבים לטפל בכל פנייה בנושא בהקדם האפשרי.
-לתמיכה טכנית כללית של הטכניון בטלפון: 04-829-5600
-
-</div>
