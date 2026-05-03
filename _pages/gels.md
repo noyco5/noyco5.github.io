@@ -13,11 +13,11 @@ Our group aims to provide fundamental understanding for the governing mechanisms
 
 ## Thermo-responsive polymers: PNIPAM
 
-A significant focus of our group is Poly(N-isopropylacrylamide) (PNIPAM). This "smart" polymer is characterized by its Lower Critical Solution Temperature (LCST). When heated above approximately 32°C, PNIPAM undergoes a reversible phase transition from a hydrophilic, swollen state to a hydrophobic, collapsed state. This transition is rooted in the competitive balance between the entropy of mixing and the enthalpy of hydrogen bonding between the polymer and the solvent.
+Poly(N-isopropylacrylamide) (PNIPAM) is a thermo-responsive polymer that is characterized by a Lower Critical Solution Temperature (LCST). When heated above approximately ~32°C, PNIPAM undergoes a reversible phase transition from a hydrophilic, swollen state to a hydrophobic, collapsed state. This transition is rooted in the competitive balance between the entropy of mixing and the enthalpy of hydrogen bonding between the polymer and the solvent.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <p>We have demonstrated that external loads can trigger phase coexistence even at temperatures where the gel would normally remain fully swollen. By integrating Flory-Huggins theory with non-linear elasticity, our models predict how mechanical constraints can effectively "tune" the material's thermal sensitivity. This intersection of thermodynamics and mechanics allows for the design of sensors and actuators that respond to both thermal and physical inputs.</p>
+    <p>In our recent works, we developed a microscopically motivated model that reveals the relations between the microstructure and the overall response. In addition, we show that external loads can trigger phase coexistence at temperatures near the LCST. By integrating Flory-Huggins theory with non-linear elasticity, our models predict how mechanical constraints can effectively "tune" the thermal sensitivity of PNIPAM. This intersection of thermodynamics and mechanics allows for the design of sensors and actuators that respond to both thermal and physical inputs.</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <img src="/images/PNIPAM.png" alt="Mechanically induced transition in PNIPAM" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
