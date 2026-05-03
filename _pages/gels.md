@@ -1,5 +1,5 @@
 ---
-title: "Mechanics of Gels and Hydrogels"
+title: "Mechanics of Gels"
 layout: single
 permalink: /research/gels/
 author_profile: true
@@ -9,22 +9,28 @@ My research in soft matter focuses on the constitutive modeling and experimental
 
 ## Thermoresponsive Hydrogels: The Physics of PNIPAM
 
-<img src="{{ site.baseurl }}/images/pnipam.png" alt="PNIPAM Phase Transition Diagram" style="width:300px; float:right; margin-left:20px; border:1px solid #ddd; padding:5px;">
+<img src="{{ site.baseurl }}/images/pnipam.png" alt="PNIPAM phase transition under mechanical load" style="width:40%; float:right; margin-left:20px; border:1px solid #ddd; padding:5px;">
 
 A significant focus of our group is **Poly(N-isopropylacrylamide)** (PNIPAM). This "smart" polymer is characterized by its Lower Critical Solution Temperature (LCST). When heated above approximately 32°C, PNIPAM undergoes a reversible phase transition from a hydrophilic, swollen state to a hydrophobic, collapsed state.
 
 Our research explores how **mechanical forces** can shift this equilibrium. We have demonstrated that external loads can trigger phase coexistence even at temperatures where the gel would normally remain fully swollen. This intersection of thermodynamics and mechanics allows for the design of sensors and actuators that respond to both thermal and physical inputs.
 
-[Image of PNIPAM phase transition]
 
-## PEGDA Hydrogels
+
+<div style="clear: both;"></div>
+
+## The mechanics of PEGDA
+
+<img src="{{ site.baseurl }}/images/pegda.png" alt="Mechanical response of PEGDA network" style="width:40%; float:right; margin-left:20px; border:1px solid #ddd; padding:5px;">
 
 To create robust, bio-inspired structures, we utilize **Poly(ethylene glycol) diacrylate** (PEGDA). Unlike PNIPAM, PEGDA provides a stable, covalent scaffold. We employ these networks to:
 
 * **Study Non-linear Elasticity:** Investigating how cross-linking density affects the strain-stiffening behavior of the network.
 * **Composite Matrices:** Using PEGDA as a matrix for fiber-reinforced composites, where the soft gel facilitates large deformations while embedded fibers provide structural reinforcement.
 
-<img src="{{ site.baseurl }}/images/pegda.png" alt="The microstructure of a PEG-DA gel" style="width:280px; float:left; margin-right:20px; border:1px solid #ddd; padding:5px;">
+
+
+<div style="clear: both;"></div>
 
 ---
 
