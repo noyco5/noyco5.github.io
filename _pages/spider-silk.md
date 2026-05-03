@@ -27,13 +27,14 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px;">
     <p>When hydrated, intermolecular hydrogen bonds break due to the interaction with the water molecules. As a result, the polypeptide chains gain mobility, triggering a shortening of the fiber by up to 60%. This phenomenon is commonly known as <i>supercontraction</i>. In addition, the fiber also experiences twist.</p>
-    <p>Our models explain these behaviors through the derivation of an energy-based model that relies on principals from polymer physics. The model considers the dissotion of intermolecular bonds and the consequent entropic relaxation of the chains.</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <img src="/images/spider_silk.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Fig 1: Mechanism of water-induced supercontraction.</em></p>
   </div>
 </div>
+
+<p>Our models explain these behaviors through the derivation of an energy-based model that relies on principals from polymer physics. The model considers the dissotion of intermolecular bonds and the consequent entropic relaxation of the chains.</p>
 
 ---
 
@@ -49,7 +50,7 @@ One of the most exciting aspects of spider silk is its high stiffness, strength,
       <li><strong>Softening:</strong> Breaking of intramolecular &beta;-sheets along the chains and/or the crystalline domains provide additional chain length.</li>
       <li><strong>Stiffening:</strong> Dominated by the entropic elasticity of the chains.</li>
     </ul>  
-    <\p>
+    </p>
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
     <img src="/images/spider_silk_mechanics.png" alt="The microstructural evolution of a spider silk fiber under uniaxial extension" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -59,6 +60,7 @@ One of the most exciting aspects of spider silk is its high stiffness, strength,
 
 <p>Recent works also show that silk fibers exhibit plasticity and hysteresis when subjected to cyclic loading. </p>
 <p>In our recent works we employ statistical mechanics methodology to better understand the key microstructural quantities that govern the mechanical response. The findings from our work are three-fold: (1) explaining the mechanisms that govern deformation, hysteresis, and recovery and linking them to the microstructural evolution; (2) quantifying the recovery process of the fiber, which restores and enhances mechanical properties; and (3) establishing a predictive foundation for engineering synthetic fibers with customized properties.  </p>
+
 ---
 
 ### Relevant Publications
