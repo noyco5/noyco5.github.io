@@ -11,6 +11,8 @@ main:
   - title: "Research"
     url: /research/
     children:
+      - title: "Overview"  <-- This acts as your "Back to Research Home" button
+        url: /research/
       - title: "Spider Silk Mechanics"
         url: /research/spider-silk/
       - title: "Mechanics of Gels"
