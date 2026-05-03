@@ -28,7 +28,7 @@ For information regarding building accessibility and access routes at the Techni
 ### Contact Information
 If you encounter any accessibility barriers on this website, please contact the site administrator directly:
 
-**Asst. Prof. Noy Cohen** Email: [noyco@technion.ac.il](mailto:noyco@technion.ac.il)
+**Noy Cohen** Email: [noyco@technion.ac.il](mailto:noyco@technion.ac.il)
 
 You may also contact the Technion's Accessibility Coordinator:  
 **Dikla Nachman** | Phone: 073-3781956 | [adminlogistic@technion.ac.il](mailto:adminlogistic@technion.ac.il)
