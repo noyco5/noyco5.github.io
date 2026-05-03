@@ -8,6 +8,13 @@ author_profile: true
 <p>
 Spider silk is an extraordinary protein material that bridges the gap between biological efficiency and high-performance engineering. Our research focuses on the fundamental mechanics that govern the overall response of this material under environmental stimuli and mechanical loading.
 </p>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/spider_silk_structure.png" alt="Spider silk hierarchical structure" style="max-width: 80%; border-radius: 4px; border: 1px solid #eee;">
+  <p style="font-size: 0.85em; color: #666; margin-top: 10px;"><em>The hierarchical structure of spider silk, featuring stiff crystalline &beta;-sheets embedded in a disordered amorphous matrix.</em></p>
+</div>
+
+<p>The mechanical versatility of spider silk is rooted in its hierarchical, semi-crystalline morphology...</p>
 ---
 
 ## 1. Water-Driven Response: Supercontraction & Twist
@@ -26,7 +33,7 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
 
 ---
 
-## 2. Tuning Properties through Post-Processing
+## 2. Deformation mechanisms and plasticity
 One of the most exciting aspects of spider silk is its mechanical "programmability."
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
