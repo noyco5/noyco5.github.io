@@ -53,9 +53,10 @@ discuss pegda
 
 ### Relevant Publications
 
-* [Statistical Mechanics Theory for the Mechanical Response of Polymer Networks: The Effects of Cross-Link Density and Chain Length Distribution](https://pubs.acs.org/doi/10.1021/acs.macromol.4c03233){:target="_blank"} (2025)
-* [Design of Bioinspired, Fiber-Reinforced Hydrogel Composites with Tailored Mechanical Properties](https://pubs.acs.org/doi/10.1021/acsbiomaterials.4c01762){:target="_blank"} (2025)
-* [Entropic and Enthalpic Contributions to the Mechanical Response of Thermoresponsive Hydrogels](https://pubs.acs.org/doi/10.1021/acs.macromol.3c02635){:target="_blank"} (2024)
-* [Phase Coexistence in Thermoresponsive PNIPAM Hydrogels Triggered by Mechanical Forces](https://pubs.acs.org/doi/10.1021/acs.macromol.5c03088){:target="_blank"} (2016)
+* [Phase Coexistence in Thermoresponsive PNIPAM Hydrogels Triggered by Mechanical Forces](https://pubs.acs.org/doi/10.1021/acs.macromol.5c03088){:target="_blank"} (2026)
+* [Thermo-Mechanics of PNIPAM Gels: from a Single Chain to a Network Response](https://pubs.acs.org/doi/10.1021/acs.macromol.4c03233){:target="_blank"} (2025)
+* [Data-Driven Framework for the Prediction of PEGDA Hydrogel Mechanics](https://pubs.acs.org/doi/10.1021/acsbiomaterials.4c01762){:target="_blank"} (2025)
+* [Understanding the Response of Poly(ethylene glycol) diacrylate (PEGDA) Hydrogel Networks: A Statistical Mechanics-Based Framework](https://pubs.acs.org/doi/10.1021/acs.macromol.3c02635){:target="_blank"} (2024)
+
 
 *Detailed list of papers or a link back to the [Publications](/publications/) page.*
