@@ -1,7 +1,7 @@
 ---
 title: "3D-Printed Composite Structures & Actuators"
 layout: single
-permalink: /research/composites/
+permalink: /composites/
 author_profile: true
 ---
 

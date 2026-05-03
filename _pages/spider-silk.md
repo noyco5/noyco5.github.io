@@ -1,7 +1,7 @@
 ---
 title: "Spider Silk Mechanics"
 layout: single
-permalink: /research/spider-silk/
+permalink: /spider-silk/
 author_profile: true
 ---
 

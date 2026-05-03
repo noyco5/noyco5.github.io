@@ -1,7 +1,7 @@
 ---
 title: "Mechanics of Gels"
 layout: single
-permalink: /research/gels/
+permalink: /gels/
 author_profile: true
 ---
 
