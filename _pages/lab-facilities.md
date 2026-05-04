@@ -12,7 +12,7 @@ Feel free to <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-w
 
 ### 3D Printing
 
-<div style="background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #005191; display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
+<div style="background: rgba(0, 0, 0, 0.03); padding: 20px; border-radius: 8px; margin-bottom: 25px; border-left: 5px solid #002147; display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
   
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
     <img src="/images/3D_printer.jpg" alt="OBJET260 CONNEX 3" style="width: 100%; border-radius: 4px; border: 1px solid #eee;">
