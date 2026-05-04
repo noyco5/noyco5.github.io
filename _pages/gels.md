@@ -40,7 +40,9 @@ Thanks to many promising properties, including biocompatibility and the ability 
     </p>
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
+  <a href="/images/PEGDA.png">
     <img src="/images/PEGDA.png" alt="Mechanical response of PEGDA network" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Mechanical response of PEGDA scaffolds</em></p>
   </div>
 </div>
