@@ -31,7 +31,9 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
     <p>When hydrated, intermolecular hydrogen bonds break due to the interaction with the water molecules. As a result, the polypeptide chains gain mobility, triggering a shortening of the fiber by up to 60%. This phenomenon is commonly known as <i>supercontraction</i>. In addition, the fiber also experiences twist.</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
+  <a href="/images/spider_silk.png">
     <img src="/images/spider_silk.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Mechanism of water-induced supercontraction</em></p>
   </div>
 </div>
@@ -58,7 +60,9 @@ The governing deformation mechanisms are as follows:
     </p>
   </div>
   <div style="flex: 1; min-width: 300px; order: 1;">
+  <a href="/images/spider_silk_mechanics.png">
     <img src="/images/spider_silk_mechanics.png" alt="The microstructural evolution of a spider silk fiber under uniaxial extension" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
     <p style="font-size: 0.8em; text-align: center; color: #666;"><em>The microstructural evolution of a spider silk fiber under uniaxial extension</em></p>
   </div>
 </div>
