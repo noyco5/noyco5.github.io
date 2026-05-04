@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 Our lab is equipped with state-of-the-art facilities for the fabrication and mechanical characterization of soft and composite materials. Below are the primary services and equipment we offer.
-Feel free to <a href="mailto:noyco@technion.ac.il" style="font-weight: bold; text-decoration: underline;">contact us</a>   <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-weight: bold; text-decoration: underline;">contact us</a> for more information regarding equipment availability or collaboration.
+Feel free to  <a href="mailto:noyco@technion.ac.il" 
+   style="color: var(--link-color, inherit); font-weight: bold; text-decoration: underline; text-underline-offset: 3px;">
+   contact us
+</a> second  <a href="mailto:noyco@technion.ac.il" style="font-weight: bold; text-decoration: underline;">contact us</a> third  <a href="mailto:noyco@technion.ac.il" style="color: #005191; font-weight: bold; text-decoration: underline;">contact us</a> for more information regarding equipment availability or collaboration.
 
 ---
 
