@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p>
-Spider silk is an extraordinary protein material that bridges the gap between biological efficiency and high-performance engineering. Our research focuses on the fundamental mechanics that govern the overall response of this material under environmental stimuli and mechanical loading.
+Spider silk fibers are protein materials with exceptional mechanical performance, including high stiffness, high tensile strength, and remarkable toughness. In addition, exposure of these silk fibers to high humidity results in supercontraction (a shortening of up to 60% in length) and twist. Our research focuses on the fundamental mechanics that govern these counter-intuitive behaviors throughthe derivation of physics-based models. The findings from our works provide insights that motivate the design of next-generation biomimetic materials.
 </p>
 
 <div style="float: right; width: 40%; margin: 0 0 20px 20px;">
