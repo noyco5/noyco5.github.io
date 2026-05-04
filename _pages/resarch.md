@@ -7,6 +7,41 @@ author_profile: true
 
 ## Main Research Topics
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin: 40px 0;">
+
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <a href="/spider-silk/" style="text-decoration: none;">
+      <img src="/images/button_ss.png" alt="Spider Silk Research" 
+           style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;"
+           onmouseover="this.style.transform='scale(1.03)';" 
+           onmouseout="this.style.transform='scale(1)';">
+      <h3 style="margin-top: 15px; color: #333;">Spider Silk</h3>
+    </a>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <a href="/gels/" style="text-decoration: none;">
+      <img src="/images/button_mg.png" alt="Responsive Gels Research" 
+           style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;"
+           onmouseover="this.style.transform='scale(1.03)';" 
+           onmouseout="this.style.transform='scale(1)';">
+      <h3 style="margin-top: 15px; color: #333;">Responsive Gels</h3>
+    </a>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <a href="/composites/" style="text-decoration: none;">
+      <img src="/images/button_actuator.png" alt="Bio-Composites Research" 
+           style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;"
+           onmouseover="this.style.transform='scale(1.03)';" 
+           onmouseout="this.style.transform='scale(1)';">
+      <h3 style="margin-top: 15px; color: #333;">Bio-Composites</h3>
+    </a>
+  </div>
+
+</div>
+
+
 ### [Spider Silk Mechanics](/spider-silk/)
 
 Spider silk fibers are protein materials with exceptional mechanical performance, including high stiffness, high tensile strength, and remarkable toughness. In addition, exposure of these silk fibers to high humidity results in supercontraction (a shortening of up to 60% in length) and twist. Our group develops physics-based models to uncover the fundamental principles behind these behaviors, motivating the design of next-generation biomimetic materials.
