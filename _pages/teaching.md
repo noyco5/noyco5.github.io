@@ -71,4 +71,6 @@ Check out our two-balloon experiment to see the non-linear mechanics of rubber i
 
 ---
 
+<!--
 *I also teach graduate and undergraduate courses in the Department of Materials Science and Engineering at Technion, covering topics such as the mechanics of soft materials, machine learning for engineers, and continuum mechanics.*
+-->
