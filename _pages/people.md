@@ -55,14 +55,14 @@ author_profile: true
 <h2 style="color: #333; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 50px;">Alumni</h2>
 <div class="alumni-section" style="margin-top: 20px; line-height: 1.8;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li><strong>Michal Levin</strong> - Ph.D. (2025)</li>
-    <li><strong>Kristina Bazaev</strong> - M.Sc. (2025)</li>
-    <li><strong>Tamara Hanuhov</strong> - Ph.D. (2024)</li>
-    <li><strong>Rita Levit</strong> - M.Sc. (2024)</li>
-    <li><strong>Shachar Keren</strong> - Ph.D. (2024)</li>
-    <li><strong>RoniSverdlov Arzi</strong> - Ph.D. (2022)</li>
-    <li><strong>Alex Rabinovich</strong> - M.Sc. (2022)</li>
     <li><strong>Nir Emuna</strong> - Post-doc (2020)</li>
+    <li><strong>Michal Levin</strong> - Ph.D. (2025)</li>
+    <li><strong>Tamara Hanuhov</strong> - Ph.D. (2024)</li>
+    <li><strong>Shachar Keren</strong> - Ph.D. (2024)</li>
+    <li><strong>Roni Sverdlov Arzi</strong> - Ph.D. (2022)</li>
+    <li><strong>Kristina Bazaev</strong> - M.Sc. (2025)</li>
+    <li><strong>Rita Levit</strong> - M.Sc. (2024)</li>
+    <li><strong>Alex Rabinovich</strong> - M.Sc. (2022)</li>
   </ul>
 </div>
 
