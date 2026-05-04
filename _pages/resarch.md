@@ -7,7 +7,7 @@ author_profile: true
 
 ## Main Research Topics
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin: 40px 0;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; gap: 20px; margin: 40px 0;">
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
     <a href="/spider-silk/" style="text-decoration: none;">
@@ -25,7 +25,7 @@ author_profile: true
            style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;"
            onmouseover="this.style.transform='scale(1.03)';" 
            onmouseout="this.style.transform='scale(1)';">
-      <h3 style="margin-top: 15px; color: #333;">Responsive Gels</h3>
+      <h3 style="margin-top: 15px; color: #333;">Mechanics of Gels</h3>
     </a>
   </div>
 
@@ -35,7 +35,7 @@ author_profile: true
            style="width: 100%; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;"
            onmouseover="this.style.transform='scale(1.03)';" 
            onmouseout="this.style.transform='scale(1)';">
-      <h3 style="margin-top: 15px; color: #333;">Bio-Composites</h3>
+      <h3 style="margin-top: 15px; color: #333;">3D-Printed Composite Structures & Actuators</h3>
     </a>
   </div>
 
