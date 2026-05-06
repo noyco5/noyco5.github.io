@@ -12,7 +12,7 @@ author_profile: true
   
   <li style="margin-bottom: 20px;">
     <a href="https://www.sciencedirect.com/science/article/pii/S0022509626001596" target="_blank" style="font-weight: bold; text-decoration: none;">Plasticity, hysteresis, and recovery mechanisms in spider silk fibers</a><br>
-    R. Olivé, J. Peréz-Riguero, and <strong>N. Cohen</strong>, <em>Journal of the Mechanics and Physics of Solids</em>, 106658, 2026
+    R. Olivé, J. Peréz-Riguero, and <strong>N. Cohen</strong>, <em>Journal of the Mechanics and Physics of Solids</em>, 214: 106658, 2026
   </li>
 
  <li style="margin-bottom: 20px;">
