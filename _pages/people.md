@@ -55,8 +55,11 @@ author_profile: true
 </div>
 
 
-<h2 style="color: #333; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 50px;">Alumni</h2>
-<div class="alumni-section" style="margin-top: 20px; line-height: 1.8;">
+<!-- <h2 style="color: #333; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 50px;">Alumni</h2>
+<div class="alumni-section" style="margin-top: 20px; line-height: 1.8;"> -->
+<h2 style="color: var(--primary-color, inherit); border-bottom: 2px solid var(--primary-color, #002147); padding-bottom: 10px; margin-top: 40px;">
+  Alumni
+</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li><strong>Nir Emuna</strong> - Post-doc (2020)</li>
     <li><strong>Michal Levin</strong> - Ph.D. (2025)</li>
