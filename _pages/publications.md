@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<input type="text" id="pubSearch" onkeyup="searchPublications()" placeholder="Search titles, authors, or journals..." style="width: 100%; padding: 12px; margin-bottom: 25px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px;">
+<!-- <input type="text" id="pubSearch" onkeyup="searchPublications()" placeholder="Search titles, authors, or journals..." style="width: 100%; padding: 12px; margin-bottom: 25px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px;"> -->
+
+<input type="text" id="pubSearch" onkeyup="searchPublications()" placeholder="Search titles, authors, or journals..." 
+       style="width: 100%; padding: 12px; margin-bottom: 25px; border: 1px solid #ddd; border-radius: 4px; font-size: 16px; background-color: var(--background-color, #ffffff); color: var(--text-color, #333333);">
 
 <ul id="pubList" style="list-style-type: disc; padding-left: 20px;">
   <!-- <ol id="pubList" style="padding-left: 20px;"> -->
