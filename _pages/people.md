@@ -12,12 +12,6 @@ author_profile: true
   <!-- <h2 style="color: #333; font-weight: bold; border-bottom: 2px solid #eee; padding-bottom: 10px;">Post docs and graduate students</h2>  -->
   <h2 style="color: var(--primary-color, inherit); border-bottom: 2px solid var(--primary-color, #002147); padding-bottom: 10px; margin-top: 40px;">Post docs and graduate students</h2>
   <div class="people-row" style="display: flex; flex-wrap: wrap; gap: 30px;">
-    
-    <div class="person-card" style="width: 180px; text-align: center;">
-      <img src="/images/Koby_Amsalem.jpg" alt="Koby Amsalem" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
-      <div style="font-weight: bold; text-decoration: underline;">Koby Amsalem</div>
-      <div style="font-size: 0.85em; color: #666;">PhD Student</div>
-    </div>
 
     <div class="person-card" style="width: 180px; text-align: center;">
       <img src="/images/Koby_Amsalem.jpg" alt="Koby Amsalem" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
