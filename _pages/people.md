@@ -20,6 +20,11 @@ author_profile: true
     </div>
 
     <div class="person-card" style="width: 180px; text-align: center;">
+      <img src="/images/Koby_Amsalem.jpg" alt="Koby Amsalem" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
+      <div style="font-weight: bold; text-decoration: underline;">Koby Amsalem</div>
+      <div style="font-size: 0.85em;">PhD Student</div> </div>
+
+    <div class="person-card" style="width: 180px; text-align: center;">
       <img src="/images/Renata_Olive.jpg" alt="Renata Olive" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
       <div style="font-weight: bold; text-decoration: underline;">Renata Olivé</div>
       <div style="font-size: 0.85em; color: #666;">PhD Student</div>
