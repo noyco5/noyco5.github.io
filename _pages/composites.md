@@ -25,7 +25,7 @@ As opposed to the classic swelling-based actuators, the proposed design includes
   <a href="/images/actuators_water.png">
     <img src="/images/actuators_water.png" alt="Mechanism of a water-responsive actuator" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
-    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Mechanism of water-induced morphing</em></p>
+    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Swelling-induced actuation to perform mechanical work</em></p>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ Morphing structures can change their shape in response to thermal excitation and
   <a href="/images/thermo-mechanics.png">
     <img src="/images/thermo-mechanics.png" alt="Thermal-mechanical activation of soft composites" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
-    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Thermal activation of a soft structure</em></p>
+    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Thermal activation of morphing structures</em></p>
   </div>
 </div>
 
