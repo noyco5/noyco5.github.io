@@ -32,7 +32,8 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
   </div>
   <div style="flex: 1; min-width: 300px;">
   <a href="/images/spider_silk.png">
-    <img src="/images/spider_silk.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <!-- <img src="/images/spider_silk.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> -->
+    <img src="/images/spider_silk.png" alt="Water-driven response of spider silk fibers" style="width: 100%; background-color: #ffffff; padding: 10px; box-sizing: border-box; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
     <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Mechanism of water-induced supercontraction</em></p>
   </div>
