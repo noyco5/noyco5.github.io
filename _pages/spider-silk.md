@@ -13,7 +13,7 @@ Spider silk fibers are protein materials with exceptional mechanical performance
   <a href="/images/spider_silk_structure.png">
     <img src="/images/spider_silk_structure.png" alt="The hierarchical structure of spider silk fibers, including the crystalline domains, the amorphous domains, and the intermolecualr bonds" style="width: 100%; border-radius: 4px; border: 1px solid #eee;">
   </a>
-  <p style="font-size: 0.85em; color: #666; margin-top: 10px; line-height: 1.2;">
+  <p style="font-size: 0.85em; color: var(--text-color, inherit); opacity: 0.7; margin-top: 10px; line-height: 1.2;">
     <em>The hierarchical structure of spider silk</em>
   </p>
 </div>
