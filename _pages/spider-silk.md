@@ -23,7 +23,7 @@ Spider silk fibers are protein materials with exceptional mechanical performance
 <div style="clear: both;"></div>
 ---
 
-## 1. Water-Driven Response: Supercontraction & Twist
+## Water-Driven Response: Supercontraction & Twist
 Spider silk exhibits a unique ability to undergo supercontraction, or a shortening of up to ~60% in response to water uptake, and twist when exposed to water or high humidity. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
@@ -42,7 +42,7 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
 
 ---
 
-## 2. Deformation mechanisms and plasticity
+## Deformation mechanisms and plasticity
 One of the most exciting aspects of spider silk is its high stiffness, strength, and toughness, which stem from a unique mircostructure. Recent works also show that silk fibers exhibit plasticity and hysteresis when subjected to cyclic loading. 
 Our group developed a microscopically motivated model that reveals the underlying mechanisms behind the mechanical response of silk fibers.
 

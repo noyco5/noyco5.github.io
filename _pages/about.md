@@ -13,7 +13,7 @@ Welcome to the Multiscale Mechanics Group at the Technion. Our research lies at 
 
 <div style="clear: both; width: 100%; margin: 30px 0;">
     <img src="/images/research_description.png" alt="Research Overview" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <p style="font-size: 0.9em; text-align: center; color: #666; margin-top: 15px;">
+  <p style="font-size: 0.9em; text-align: center; color: var(--text-color, inherit); opacity: 0.7; margin-top: 15px;">
     <em>Overview of our research thrusts and methodology (created using NotebookLM)</em>
   </p>
 </div>
