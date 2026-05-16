@@ -23,7 +23,7 @@ Poly(N-isopropylacrylamide) (PNIPAM) is a thermo-responsive polymer that is char
     <a href="/images/PNIPAM.png">
       <img src="/images/PNIPAM.png" alt="Mechanically induced transition in PNIPAM" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </a>
-    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, #333333); opacity: 0.8;"><em>Mechanically induced phase transitions in responsive gels</em></p>
+    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Mechanically induced phase transitions in responsive gels</em></p>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ Thanks to many promising properties, including biocompatibility and the ability 
   <a href="/images/PEGDA.png">
     <img src="/images/PEGDA.png" alt="Mechanical response of PEGDA network" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
-    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, #333333); opacity: 0.8;"><em>Mechanical response of PEGDA scaffolds</em></p>
+    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Mechanical response of PEGDA scaffolds</em></p>
   </div>
 </div>
 
