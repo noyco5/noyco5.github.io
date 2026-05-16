@@ -17,7 +17,7 @@ Poly(N-isopropylacrylamide) (PNIPAM) is a thermo-responsive polymer that is char
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <p>In our recent works, we developed a microscopically motivated model that reveals the relations between the microstructure and the overall response. In addition, we show that external loads can trigger phase coexistence at temperatures near the LCST. By integrating Flory-Huggins theory with non-linear elasticity, our models predict how mechanical constraints can effectively "tune" the thermal sensitivity of PNIPAM. This intersection of thermodynamics and mechanics allows for the design of sensors and actuators that respond to both thermal and physical inputs.</p>
+    <p>In our recent works, we developed a microscopically motivated model that reveals the relations between the microstructure and the overall response. In addition, we show that external loads can trigger phase coexistence at temperatures near the LCST. By integrating Flory-Huggins theory with non-linear elasticity, our models predict how mechanical constraints can effectively "tune" the thermal sensitivity of PNIPAM.</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <a href="/images/PNIPAM.png">
@@ -26,6 +26,7 @@ Poly(N-isopropylacrylamide) (PNIPAM) is a thermo-responsive polymer that is char
     <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Thermally induced phase transitions in responsive gels</em></p>
   </div>
 </div>
+This intersection of thermodynamics and mechanics allows for the design of sensors and actuators that respond to both thermal and physical inputs.
 
 ---
 
