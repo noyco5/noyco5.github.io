@@ -34,7 +34,7 @@ Spider silk exhibits a unique ability to undergo supercontraction, or a shorteni
   <a href="/images/spider_silk.png">
     <img src="/images/spider_silk.png" alt="Water-driven response of spider silk fibers" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
-    <p style="font-size: 0.8em; text-align: center; color: #666;"><em>Mechanism of water-induced supercontraction</em></p>
+    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>Mechanism of water-induced supercontraction</em></p>
   </div>
 </div>
 
@@ -63,7 +63,7 @@ The governing deformation mechanisms are as follows:
   <a href="/images/spider_silk_mechanics.png">
     <img src="/images/spider_silk_mechanics.png" alt="The microstructural evolution of a spider silk fiber under uniaxial extension" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
-    <p style="font-size: 0.8em; text-align: center; color: #666;"><em>The microstructural evolution of a spider silk fiber under uniaxial extension</em></p>
+    <p style="font-size: 0.8em; text-align: center; color: var(--text-color, inherit); opacity: 0.75;"><em>The microstructural evolution of a spider silk fiber under uniaxial extension</em></p>
   </div>
 </div>
 
