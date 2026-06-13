@@ -41,6 +41,7 @@ author_profile: true
       <div style="font-weight: bold; text-decoration: underline;">Karine Sacagiu</div>
       <div style="font-size: 0.85em;">M.Sc. Student</div>
     </div>
+    
   </div>
 </div>
 
