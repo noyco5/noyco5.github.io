@@ -35,12 +35,6 @@ author_profile: true
       <div style="font-weight: bold; text-decoration: underline;">Eli Yovel</div>
       <div style="font-size: 0.85em;">M.Sc. Student</div>
     </div>
-
-    <div class="person-card" style="width: 180px; text-align: center;">
-      <img src="/images/Karine_Sacagiu.jpg" alt="Karine Sacagiu" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
-      <div style="font-weight: bold; text-decoration: underline;">Karine Sacagiu</div>
-      <div style="font-size: 0.85em;">M.Sc. Student</div>
-    </div>
     
   </div>
 </div>
@@ -55,6 +49,7 @@ author_profile: true
     <li><strong>Tamara Hanuhov</strong> - Ph.D. (2024)</li>
     <li><strong>Shachar Keren</strong> - Ph.D. (2024)</li>
     <li><strong>Roni Sverdlov Arzi</strong> - Ph.D. (2022)</li>
+    <li><strong>Karine Sacagiu</strong> - M.Sc. (2026)</li>
     <li><strong>Yonatan Markman</strong> - M.Sc. (2026)</li>
     <li><strong>Kristina Bazaev</strong> - M.Sc. (2025)</li>
     <li><strong>Rita Levit</strong> - M.Sc. (2024)</li>
