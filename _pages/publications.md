@@ -15,7 +15,7 @@ author_profile: true
   
   <li style="margin-bottom: 20px;">
     <a href="https://arxiv.org/abs/2607.07377" target="_blank" style="font-weight: bold; text-decoration: none;">Stiffness by design in biological fibers: the influence of microstructure and temperature</a><br>
-    E. Yovel and <strong>N. Cohen</strong>, <em>Under creview</em>, 2026
+    E. Yovel and <strong>N. Cohen</strong>, <em>Under review</em>, 2026
   </li>
 
   <li style="margin-bottom: 20px;">
