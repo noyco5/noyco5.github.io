@@ -14,6 +14,11 @@ author_profile: true
   <!-- <ol id="pubList" style="padding-left: 20px;"> -->
   
   <li style="margin-bottom: 20px;">
+    <a href="https://arxiv.org/abs/2603.23881" target="_blank" style="font-weight: bold; text-decoration: none;">Stiffness by design in biological fibers: the influence of microstructure and temperature</a><br>
+    E. Yovel and <strong>N. Cohen</strong>, <em>Under review</em>, 2026
+  </li>
+
+  <li style="margin-bottom: 20px;">
     <a href="https://arxiv.org/abs/2603.23881" target="_blank" style="font-weight: bold; text-decoration: none;">Rethinking failure in polymer networks: a probabilistic view on progressive damage</a><br>
     <strong>N. Cohen</strong>, N. Bouklas, and C.Y. Hui, <em>Under review</em>, 2026
   </li>
