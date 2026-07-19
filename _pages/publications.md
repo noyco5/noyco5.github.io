@@ -14,6 +14,11 @@ author_profile: true
   <!-- <ol id="pubList" style="padding-left: 20px;"> -->
   
   <li style="margin-bottom: 20px;">
+    <a href="https://arxiv.org/abs/2607.13174" target="_blank" style="font-weight: bold; text-decoration: none;">Towards end-to-end optimization in multimaterial 3D printing</a><br>
+    E. Yovel and <strong>N. Cohen</strong>, <em>Under review</em>, 2026
+  </li>
+
+  <li style="margin-bottom: 20px;">
     <a href="https://arxiv.org/abs/2607.07377" target="_blank" style="font-weight: bold; text-decoration: none;">Stiffness by design in biological fibers: the influence of microstructure and temperature</a><br>
     E. Yovel and <strong>N. Cohen</strong>, <em>Under review</em>, 2026
   </li>
