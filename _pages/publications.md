@@ -15,7 +15,7 @@ author_profile: true
   
   <li style="margin-bottom: 20px;">
     <a href="https://arxiv.org/abs/2607.13174" target="_blank" style="font-weight: bold; text-decoration: none;">Towards end-to-end optimization in multimaterial 3D printing</a><br>
-    E. Yovel and <strong>N. Cohen</strong>, <em>Under review</em>, 2026
+    X.L. Luo, S. Yang, J. Tan, R.F. Shepherd, <strong>N. Cohen</strong>, and N. Bouklas, <em>Under review</em>, 2026
   </li>
 
   <li style="margin-bottom: 20px;">
