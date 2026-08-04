@@ -14,6 +14,11 @@ author_profile: true
   <!-- <ol id="pubList" style="padding-left: 20px;"> -->
   
   <li style="margin-bottom: 20px;">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7230357" target="_blank" style="font-weight: bold; text-decoration: none;">Helical fiber-embedded composites: a strategy to decouple and program mechanical responses under different loading modes</a><br>
+    G. Priebatch, N. Bouklas, and <strong>N. Cohen</strong>, <em>Under review</em>, 2026
+  </li>
+
+  <li style="margin-bottom: 20px;">
     <a href="https://arxiv.org/abs/2607.13174" target="_blank" style="font-weight: bold; text-decoration: none;">Towards end-to-end optimization in multimaterial 3D printing</a><br>
     X.L. Luo, S. Yang, J. Tan, R.F. Shepherd, <strong>N. Cohen</strong>, and N. Bouklas, <em>Under review</em>, 2026
   </li>
