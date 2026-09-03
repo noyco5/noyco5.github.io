@@ -29,8 +29,8 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 20px;">
-    <a href="https://arxiv.org/abs/2603.23881" target="_blank" style="font-weight: bold; text-decoration: none;">Rethinking failure in polymer networks: a probabilistic view on progressive damage</a><br>
-    <strong>N. Cohen</strong>, N. Bouklas, and C.Y. Hui, <em>Under review</em>, 2026
+    <a href="https://arxiv.org/abs/2603.23881" target="_blank" style="font-weight: bold; text-decoration: none;">Rethinking failure in elastomeric polymer networks: a probabilistic view on progressive damage</a><br>
+    <strong>N. Cohen</strong>, N. Bouklas, and C.Y. Hui, <em>Extreme Mechanics Letters</em>, 2026
   </li>
 
   <li style="margin-bottom: 20px;">
