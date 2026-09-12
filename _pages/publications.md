@@ -29,7 +29,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 20px;">
-    <a href="" target="_blank" style="font-weight: bold; text-decoration: none;">Equilibrium and stability of soft-magnetic particle assemblies: a multipole model with polymer chain elasticitye</a><br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0022509626003492" target="_blank" style="font-weight: bold; text-decoration: none;">Equilibrium and stability of soft-magnetic particle assemblies: a multipole model with polymer chain elasticitye</a><br>
     K. Danas and <strong>N. Cohen</strong>, <em>Journal of the Mechanics and Physics of Solids</em>, 2026
   </li>
 
