@@ -24,18 +24,18 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 20px;">
-    <a href="https://arxiv.org/abs/2607.07377" target="_blank" style="font-weight: bold; text-decoration: none;">Stiffness by design in biological fibers: the influence of microstructure and temperature</a><br>
-    E. Yovel and <strong>N. Cohen</strong>, <em>Under review</em>, 2026
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S1742706126006409" target="_blank" style="font-weight: bold; text-decoration: none;">Stiffness by design in biological fibers: the influence of microstructure and temperature</a><br>
+    E. Yovel and <strong>N. Cohen</strong>, <em>Acta Biomaterialia</em>, 2026
   </li>
 
   <li style="margin-bottom: 20px;">
     <a href="https://www.sciencedirect.com/science/article/pii/S0022509626003492" target="_blank" style="font-weight: bold; text-decoration: none;">Equilibrium and stability of soft-magnetic particle assemblies: a multipole model with polymer chain elasticitye</a><br>
-    K. Danas and <strong>N. Cohen</strong>, <em>Journal of the Mechanics and Physics of Solids</em>, 2026
+    K. Danas and <strong>N. Cohen</strong>, <em>Journal of the Mechanics and Physics of Solids</em>, 218: 106848, 2026
   </li>
 
   <li style="margin-bottom: 20px;">
     <a href="https://www.sciencedirect.com/science/article/pii/S2352431626000842" target="_blank" style="font-weight: bold; text-decoration: none;">Rethinking failure in elastomeric polymer networks: a probabilistic view on progressive damage</a><br>
-    <strong>N. Cohen</strong>, N. Bouklas, and C.Y. Hui, <em>Extreme Mechanics Letters</em>, 2026
+    <strong>N. Cohen</strong>, N. Bouklas, and C.Y. Hui, <em>Extreme Mechanics Letters</em>, 88: 102523, 2026
   </li>
 
   <li style="margin-bottom: 20px;">
