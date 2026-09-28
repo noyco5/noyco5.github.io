@@ -24,7 +24,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 20px;">
-    <a href="..." target="_blank" style="font-weight: bold; text-decoration: none;">Hydrogel Mechanics Across Application Domains: A Regime-Based Framework For Rational Design</a><br>
+    <a href="..." target="_blank" style="font-weight: bold; text-decoration: none;">Hydrogel mechanics across application domains: A regime-based framework for rational design</a><br>
     L. Migliorini, R. Macaluso, S. Monchetti, M. Arioli, <strong>N. Cohen</strong>, R. Brighenti, and A. Spagnoli, <em>Advances in Physics: X</em>, 2026
   </li>
 
