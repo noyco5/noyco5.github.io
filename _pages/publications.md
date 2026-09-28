@@ -24,6 +24,11 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 20px;">
+    <a href="..." target="_blank" style="font-weight: bold; text-decoration: none;">Hydrogel Mechanics Across Application Domains: A Regime-Based Framework For Rational Design</a><br>
+    L. Migliorini, R. Macaluso, S. Monchetti, M. Arioli, <strong>N. Cohen</strong>, R. Brighenti, and A. Spagnoli, <em>Advances in Physics: X</em>, 2026
+  </li>
+
+  <li style="margin-bottom: 20px;">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S1742706126006409" target="_blank" style="font-weight: bold; text-decoration: none;">Stiffness by design in biological fibers: the influence of microstructure and temperature</a><br>
     E. Yovel and <strong>N. Cohen</strong>, <em>Acta Biomaterialia</em>, 2026
   </li>
