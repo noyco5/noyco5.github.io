@@ -75,7 +75,7 @@ author_profile: true
 
   <li style="margin-bottom: 20px;">
     <a href="https://www.sciencedirect.com/science/article/pii/S0020768325003786" target="_blank" style="font-weight: bold; text-decoration: none;">Employing spinning conditions to control the mechanical response of spider silk fibers</a><br>
-    R. Olive and <strong>N. Cohen</strong>, <em>International Journal of Solids and Structures</em>, 322: 113592, 2025
+    R. Olivé and <strong>N. Cohen</strong>, <em>International Journal of Solids and Structures</em>, 322: 113592, 2025
   </li>
 
   <li style="margin-bottom: 20px;">
@@ -135,7 +135,7 @@ author_profile: true
 
   <li style="margin-bottom: 20px;">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022509623002843" target="_blank" style="font-weight: bold; text-decoration: none;">Deformation and failure mechanisms in spider silk fibers</a><br>
-    R. Olive and <strong>N. Cohen</strong>, <em>Journal of the Mechanics and Physics of Solids</em>, 182: 105480, 2024
+    R. Olivé and <strong>N. Cohen</strong>, <em>Journal of the Mechanics and Physics of Solids</em>, 182: 105480, 2024
   </li>
 
   <li style="margin-bottom: 20px;">
