@@ -159,6 +159,7 @@ include:
   - _pages
   - files
 exclude:
+  - WEBSITE_REVIEW.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
