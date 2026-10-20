@@ -37,7 +37,7 @@ author_profile: true
     </div>
 
     <div class="person-card" style="width: 180px; text-align: center;">
-      <img src="/images/laura_bashir.jpg" alt="Laura Bashir" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
+      <img src="/images/Laura_Bashir.png" alt="Laura Bashir" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
       <div style="font-weight: bold; text-decoration: underline;">Laura Bashir</div>
       <div style="font-size: 0.85em;">M.Sc. Student</div>
     </div>
