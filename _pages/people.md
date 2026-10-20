@@ -16,23 +16,29 @@ author_profile: true
     <div class="person-card" style="width: 180px; text-align: center;">
       <img src="/images/Koby_Amsalem.jpg" alt="Koby Amsalem" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
       <div style="font-weight: bold; text-decoration: underline;">Koby Amsalem</div>
-      <div style="font-size: 0.85em;">PhD Student</div> </div>
+      <div style="font-size: 0.85em;">Ph.D. Student</div> </div>
 
     <div class="person-card" style="width: 180px; text-align: center;">
       <img src="/images/Renata_Olive.jpg" alt="Renata Olive" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
       <div style="font-weight: bold; text-decoration: underline;">Renata Olivé</div>
-      <div style="font-size: 0.85em;">PhD Student</div>
+      <div style="font-size: 0.85em;">Ph.D. Student</div>
     </div>
 
     <div class="person-card" style="width: 180px; text-align: center;">
       <img src="/images/Guy_Priebatch.jpg" alt="Guy Priebatch" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
       <div style="font-weight: bold; text-decoration: underline;">Guy Priebatch</div>
+      <div style="font-size: 0.85em;">Ph.D. Student</div>
+    </div>
+
+    <div class="person-card" style="width: 180px; text-align: center;">
+      <img src="/images/Eli_Yovel.jpg" alt="Eli Yovel" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
+      <div style="font-weight: bold; text-decoration: underline;">Eli Yovel</div>
       <div style="font-size: 0.85em;">M.Sc. Student</div>
     </div>
 
-      <div class="person-card" style="width: 180px; text-align: center;">
-      <img src="/images/Eli_Yovel.jpg" alt="Eli Yovel" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
-      <div style="font-weight: bold; text-decoration: underline;">Eli Yovel</div>
+    <div class="person-card" style="width: 180px; text-align: center;">
+      <img src="/images/laura_bashir.jpg" alt="Laura Bashir" style="border-radius: 50%; width: 130px; height: 130px; object-fit: cover; margin-bottom: 10px;">
+      <div style="font-weight: bold; text-decoration: underline;">Laura Bashir</div>
       <div style="font-size: 0.85em;">M.Sc. Student</div>
     </div>
     
