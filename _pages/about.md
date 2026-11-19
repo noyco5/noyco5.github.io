@@ -30,9 +30,7 @@ How the polymer network and the solvent inside a gel govern its swelling, deform
 **[3D-printed composite structures and actuators](/composites/)**
 Designing and printing lattice structures and soft actuators, including dielectric elastomers, whose shape and stiffness can be programmed.
 
-## Publications
-
-Our work appears in journals across mechanics, physics, and materials science. [Browse our publications](/publications/).
+## [Publications](/publications/).
 
 ## Join us
 
